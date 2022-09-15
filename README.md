@@ -30,10 +30,6 @@
 - /api/v1/auth/register
 - - POST
 
-- /api/v1/auth/password-recovery
-- - POST 
-- - PATCH
-
 # Paths de mi usuario a traves de  mi aplicacion
 
 [✅] registrar mi usuario
